@@ -1,2 +1,2 @@
 # inbocourse
-Course GitHub tryout repo 
+Tryout repository for the INBO GitHub course.
