@@ -2,5 +2,9 @@
 Tryout repository for the INBO GitHub course.
 
 Location: Brussels Inbo## subsectie 1
+Location: Brussels Inbo
+
+Date: May 9th 2018
+
 ## subsectie 2
 tekst
