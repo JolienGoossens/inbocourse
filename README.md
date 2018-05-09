@@ -9,4 +9,6 @@ Date: May 9th 2018
 tekst: conflict
 
 ## subsectie 2
-tekst
+tekst: amend
+
+"data/poddata_day.csv" contains data
